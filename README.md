@@ -1,5 +1,5 @@
-## Grafos
-### BFS
+# Problemas
+## BFS
 * [Building Roads](https://cses.fi/problemset/task/1666/)
 * [Rumor](https://codeforces.com/contest/893/problem/C)
 * [Message Route](https://cses.fi/problemset/task/1667)
