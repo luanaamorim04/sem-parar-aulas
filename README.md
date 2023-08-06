@@ -13,4 +13,9 @@
 
 ## DP
 * [Atcoder Contest](https://atcoder.jp/contests/dp)
-* [CSES DP]()
+* [CSES DP](https://cses.fi/problemset/)
+
+## Segmentation Tree
+* [Minimum Range Queries](https://cses.fi/problemset/task/1647)
+
+  
