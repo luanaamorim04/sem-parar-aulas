@@ -18,4 +18,9 @@
 ## Segmentation Tree
 * [Minimum Range Queries](https://cses.fi/problemset/task/1647)
 
+## Union-Find
+* [Building Roads](https://cses.fi/problemset/task/1666/)
+
+
+
   
