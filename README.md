@@ -22,9 +22,9 @@
 * [Building Roads](https://cses.fi/problemset/task/1666/)
   
 ## Two-Pointers
-*[Sum of Two Values](https://cses.fi/problemset/task/1640/)
-*[Subarray Sums 1](https://cses.fi/problemset/task/1660/)
-*[Quiz Master](https://codeforces.com/contest/1777/problem/C)
+* [Sum of Two Values](https://cses.fi/problemset/task/1640/)  
+* [Subarray Sums 1](https://cses.fi/problemset/task/1660/)
+* [Quiz Master](https://codeforces.com/contest/1777/problem/C)
 
 
 
